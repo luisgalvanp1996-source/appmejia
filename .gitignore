@@ -2,3 +2,7 @@
 /node_modules
 bun.lock
 tsconfig.json
+.env
+.env.*
+!.env.example
+node_modules/
